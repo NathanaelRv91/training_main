@@ -1,4 +1,5 @@
-# training_main
+# Training
+
 Files that are saved for mi initial project setup
 
 Welcome to my portal and display of my personal experiences, program projects for fitness training and journaling of events/experiences and opinions as they relate to my universe of hard excercise, hard work in data analytics and aspirations to do more and more in both of these spaces. I started my professional career as a skinny kitchen manager in Hays, KS and now i enjoy a bi-annual trainng season of endurance racing and bodybuilding-style workouts. 
